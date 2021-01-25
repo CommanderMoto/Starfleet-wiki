@@ -1,38 +1,30 @@
 ====== What Is Starfleet? ======
-==== Starfleet is a Benefit Corporation ====
-Conceived as a decoupling layer between late-stage capitalism and progressive social experimentation. 
+{{section>corporation:intro}}
 
-Phase one is focused on securing facilities for our headquarters, which in the short term will also serve as a live / work home for queer entrepreneurs.
+{{section>corporation:disclaimer}}
 
-=== A space for serving the community ===
-It's a haven where trans people will be able to collaborate with other trans people. To organize into effective action, to promote the healing and social change we see such need for today.
+==== Why? ====
+{{page>starfleet:whyfounded}}
 
-== Hair Removal ==
-You don't have to consider yourself low-income to look at prices for permanent hair removal and let off an impressed "whew!" - and this is an essential need for about half the trans people out there. And it's a procedure that's only rarely covered by health insurance.
+==== Philosophy ====
+{{page>philosophy:heroquote}}
 
-**[[co-op|We can do this together.]]** Electrolysis and laser, we have people who can teach and people eager to learn. All we need is some support in securing the equipment; we are motivated to take care of one another!
+{{page>philosophy:values}}
 
-We hope that by increasing the supply of well-trained hair removal professionals, in time we can help solve "the hair problem" for the broader community as well.
+We are committed to a collection of progressive values that we believe are held by the majority of our community. In popular culture, we have found that the Star Trek™ franchise, and particularly the (fictional) entity called Starfleet, expresses those values in a concise and accessible way.
 
-== Partnership with White Bird Clinic? ==
-TBD
+=== Mission ===
+{{page>mission:vision}}
 
-
-====== Why? ======
-==== Because this community's genderqueer / differently-abled population needs a place to live and work. ====
-Yes, this is inspired by one person's struggle, but it's a struggle they see affecting many others. Others with even less privilege. And we see that we are surrounded by a loving community of people ready to see some change in the world, and we want to help be that change.
-
-==== Because this community is proud of the progress we're making ====
-
-== We Envision ==
-this becoming a nest of support for trans people in Eugene.
-
-== We Aspire ==
-to provide innovative and comprehensive support to our trans and differently-abled communities - starting in Eugene, Oregon, and eventually reaching worldwide!
-
-== We Address ==
-A major quality-of-life issue - a need that many in the trans community would never be able to afford otherwise.
+{{page>mission:current}}
 
 
-====== Where? ======
-[[hq|Headquarters]]
+==== Phased Development ====
+Phase one is focused on securing facilities for our [[headquarters|headquarters]], which in the short term will also serve as a live / work home for queer entrepreneurs.
+
+Once we have established a base of operations, we will invest in and incubate LGBTQIA+ companies that we believe will support our ongoing mission.
+
+What could we do with a space full of trans activists? Here are some ideas that we're considering at this stage in our growth.
+  * [[tech|Technology Incubator]]
+  * [[farm|Agricultural Incubator]]
+  * [[hairRemoval|Hair Removal]]
