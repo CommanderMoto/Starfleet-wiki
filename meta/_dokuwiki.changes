@@ -132,3 +132,75 @@
 1611611532	67.171.208.244	E	start	admin	[Starfleet is a Benefit Corporation] 		-237
 1611611542	67.171.208.244	C	corporation:intro	admin	created		259
 1611611562	67.171.208.244	E	start	admin	[What Is Starfleet?] 		8
+1611611805	67.171.208.244	C	starfleet:start	moto	created		10
+1611612063	67.171.208.244	E	start	moto			-2
+1611615630	67.171.208.244	E	start	moto			-4
+1611615748	67.171.208.244	E	start	moto			-7
+1611615926	67.171.208.244	E	start	moto			-1
+1611615973	67.171.208.244	E	start	moto	[Philosophy] 		2
+1611616244	67.171.208.244	E	mission:vision	moto			4
+1611616388	67.171.208.244	E	start	moto			-270
+1611616485	67.171.208.244	E	start	moto	[Philosophy] 		15
+1611616519	67.171.208.244	E	mission:vision	moto			-147
+1611616748	67.171.208.244	E	start	moto			35
+1611616757	67.171.208.244	E	mission:current	moto			1
+1611616828	67.171.208.244	E	mission:current	moto			16
+1611616937	67.171.208.244	C	user:moto	moto	created		130
+1611616970	67.171.208.244	E	philosophy:heroquote	moto			14
+1611637897	67.171.208.244	E	philosophy:heroquote	admin			39
+1611638065	67.171.208.244	E	mission:current	admin			39
+1611638124	67.171.208.244	E	mission:current	admin			9
+1611615691	127.0.0.1	E	starfleet:why		external edit		1344
+1611638192	67.171.208.244	E	starfleet:why	admin			-4
+1611638353	67.171.208.244	E	philosophy:heroquote	admin			2
+1611638399	67.171.208.244	E	philosophy:heroquote	admin			1
+1611616365	127.0.0.1	E	philosophy:tldr		external edit		296
+1611638564	67.171.208.244	E	philosophy:tldr	admin			-5
+1611639164	67.171.208.244	C	tech	admin	created		645
+1611639234	67.171.208.244	C	farm	admin	created		119
+1611639337	67.171.208.244	E	farm	admin			154
+1611675685	67.171.208.244	E	start	admin	[Phased Development] 		43
+1611675812	67.171.208.244	E	start	admin	[Phased Development] 		-11
+1611676351	67.171.208.244	C	shelter	admin	created		629
+1611677180	67.171.208.244	E	shelter	admin	[Hexayurts] 		792
+1611677743	67.171.208.244	E	shelter	admin			-19
+1611681167	67.171.208.244	E	shelter	admin			348
+1611688266	67.171.208.244	D	mission:current	admin	removed		-618
+1611688288	67.171.208.244	E	hairremoval	admin			619
+1611688325	67.171.208.244	E	start	admin	[Mission] 		-42
+1611688416	67.171.208.244	E	start	admin	[Phased Development] 		1
+1611688424	67.171.208.244	C	medical	admin	created		33
+1611688604	67.171.208.244	E	medical	admin			193
+1611688655	67.171.208.244	E	medical	admin			44
+1611688763	67.171.208.244	E	shelter	admin	[Hexayurts] 		162
+1611688825	67.171.208.244	E	shelter	admin	[Housing Co-Ops] 		17
+1611691253	67.171.208.244	E	shelter	moto	[Housing Co-Ops] 		150
+1611692340	67.171.208.244	E	shelter	admin	[Housing Co-Ops] 		45
+1611692369	67.171.208.244	E	shelter	admin	[Housing Co-Ops] 		1
+1611692441	67.171.208.244	E	headquarters	admin			102
+1611692632	67.171.208.244	E	headquarters	admin			217
+1611693114	67.171.208.244	E	philosophy:heroquote	moto			-10
+1611693271	67.171.208.244	E	mission:vision	admin			154
+1611693366	67.171.208.244	E	starfleet:why	admin			58
+1611693935	67.171.208.244	E	user:moto	moto			605
+1611694015	67.171.208.244	E	user:moto	moto			182
+1611694139	67.171.208.244	E	headquarters	moto			52
+1611694454	67.171.208.244	E	user:moto	moto			488
+1611694584	67.171.208.244	E	user:moto	moto			18
+1611697217	67.171.208.244	E	start	moto	[What Is Starfleet?] 		53
+1611697453	67.171.208.244	C	starfleet:purpose	moto	created		541
+1611697536	67.171.208.244	E	starfleet:purpose	moto			181
+1611697549	67.171.208.244	E	start	moto	[What Is Starfleet?] 		-21
+1611697684	67.171.208.244	E	starfleet:purpose	moto			70
+1611697784	67.171.208.244	E	starfleet:purpose	moto			26
+1611698028	67.171.208.244	E	headquarters	moto			20
+1611698043	67.171.208.244	E	headquarters	moto			1
+1611698595	67.171.208.244	E	starfleet:purpose	moto			66
+1611698994	67.171.208.244	E	headquarters	moto			-35
+1611699228	67.171.208.244	E	user:moto	moto			136
+1611699632	67.171.208.244	E	starfleet:purpose	moto			314
+1611699690	67.171.208.244	E	start	moto	[Phased Development] 		61
+1611699728	67.171.208.244	C	academy	moto	created		240
+1611699839	67.171.208.244	E	starfleet:purpose	moto			-152
+1611699897	67.171.208.244	E	starfleet:purpose	moto			-18
+1611699919	67.171.208.244	E	starfleet:purpose	moto			19

@@ -1,0 +1,5 @@
+====== Starfleet Medical ======
+The first priority for any organization should be to ensure that organization's members' fundamental survival needs are cared for.
+  * [[shelter|Housing Co-Op]]
+  * [[hairRemoval|Hair Removal]]
+  * [[massage|Massage and wellness center]]

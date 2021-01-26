@@ -1,23 +1,25 @@
-====== What Is Starfleet? ======
-{{section>corporation:intro}}
+===== What Is Starfleet? =====
+{{section>starfleet:intro}}
 
-{{section>corporation:disclaimer}}
+{{section>starfleet:purpose}}
 
-==== Why? ====
-{{page>starfleet:whyfounded}}
+{{section>starfleet:disclaimer}}
+
 
 ==== Philosophy ====
+{{page>philosophy:tldr}}
+
 {{page>philosophy:heroquote}}
 
+=== Values ===
 {{page>philosophy:values}}
 
-We are committed to a collection of progressive values that we believe are held by the majority of our community. In popular culture, we have found that the Star Trek™ franchise, and particularly the (fictional) entity called Starfleet, expresses those values in a concise and accessible way.
-
-=== Mission ===
+==== Mission ====
+=== Our Vision ===
 {{page>mission:vision}}
 
-{{page>mission:current}}
-
+==== Why? ====
+{{page>starfleet:why}}
 
 ==== Phased Development ====
 Phase one is focused on securing facilities for our [[headquarters|headquarters]], which in the short term will also serve as a live / work home for queer entrepreneurs.
@@ -27,4 +29,6 @@ Once we have established a base of operations, we will invest in and incubate LG
 What could we do with a space full of trans activists? Here are some ideas that we're considering at this stage in our growth.
   * [[tech|Technology Incubator]]
   * [[farm|Agricultural Incubator]]
-  * [[hairRemoval|Hair Removal]]
+  * [[shelter|Shelter for All]]
+  * [[medical|Medical Resources]]
+  * [[academy|Social Education and Empathy Skills Training]]
