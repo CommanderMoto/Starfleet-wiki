@@ -1,0 +1,44 @@
+====== Starfleet Ranks ======
+There are two primary classifications of rank within Starfleet: enlisted and officers. Enlisted are the "boots on the ground" who we ask to carry out relatively simple tasks. Tasks like "serve this soup" or "help these people fill out this form" or "fill these sandbags" or "see if you can't figure out a way to get this pipe to fit underneath the dirt between here and there"
+
+Officers are there to work on more specialized projects, the sustained efforts that require daily focus and utmost professionalism. A Starfleet Officer works full-time to advance Starfleet's objectives.
+
+
+===== Officer Class =====
+The Officer class is intended to serve as a limited governing body over the entirety of Starfleet. A Starfleet Officer will typically receive that title after they have completed leadership training at Starfleet Academy.
+
+==== Ensign ====
+The first rank achieved upon graduation from Starfleet Academy. Fetches coffee. If they show promise and do what they're asked a few times, they might be eligible for promotion.
+
+==== Lieutenant, Junior Grade ====
+Tells ensigns to go fetch coffee. May occasionally manage small projects. Typically assigned as a Lieutenant's assistant / "shadow" to maintain continuity as officers move up in rank.
+
+==== Lieutenant ====
+Our bread and butter middle manager. Handles at most two, modest sized, internal-only projects - that is, projects where the only customer is Starfleet.
+
+==== Lieutenant Commander ====
+Manages larger projects than Lieutenant; will be assigned as a Commander's assistant / "shadow" to maintain continuity. May be //assigned// to work on projects involving external customers - e.g. interfacing with government agencies, charitable organizations, or for-profit enterprises - but generally does so only under orders from a superior.
+
+==== Commander ====
+Manages sizable projects involving Starfleet assets, often directing the activity of multiple Lt. Commanders and Lieutenants. Free to work with any agency, internal or external, provided only that they do so in a fashion that reflects well upon Starfleet.
+
+==== Captain ====
+Directs the activities of Commanders to further Starfleet objectives on a state-wide level.
+
+==== Admiral ====
+Directs the activities of Captains to further Starfleet objectives on a global level.
+
+===== Enlistee Class =====
+Enlistees are members of the general population who wish to support Starfleet and its objectives, but who are not able to commit the resources required of a full-time Starfleet Officer.
+
+==== Crew, Second Class ====
+When enlisting with Starfleet, a new recruit is automatically granted the rank of Crew, Second Class.
+
+==== Crew, First Class ====
+Upon engaging in an organized action, under the supervision of a Crew Chief, the rank of Crew, First Class may be awarded.
+
+==== Crew Chief ====
+A Crew Chief may earn that designation by demonstrating that they have organized a pro-social action involving six or more Starfleet members, within the past six months. It is our hope that many people already in management positions will find they are qualified Crew Chiefs as their employees join our movement.
+
+==== Crew, Third Class ====
+The most regrettable rank? The only way to attain Crew, Third Class is by being demoted. It exists as a means of allowing a person to maintain association with Starfleet, to give them a path back to redemption, while advising other people within the organization that there's some trust they'll need to rebuild.

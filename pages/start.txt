@@ -1,10 +1,15 @@
-===== What Is Starfleet? =====
+====== What Is Starfleet? ======
 {{section>starfleet:intro}}
 
+====== Why Starfleet? ======
 {{section>starfleet:purpose}}
 
 {{section>starfleet:disclaimer}}
 
+
+//... the remainder of this page needs to be snipped and turned into its own wiki hierarchy//
+
+----
 
 ==== Philosophy ====
 {{page>philosophy:tldr}}
@@ -18,8 +23,7 @@
 === Our Vision ===
 {{page>mission:vision}}
 
-==== Why? ====
-{{page>starfleet:why}}
+... yeah, we're still working on clarifying that.
 
 ==== Phased Development ====
 Phase one is focused on securing facilities for our [[headquarters|headquarters]], which in the short term will also serve as a live / work home for queer entrepreneurs.
@@ -31,4 +35,4 @@ What could we do with a space full of trans activists? Here are some ideas that 
   * [[farm|Agricultural Incubator]]
   * [[shelter|Shelter for All]]
   * [[medical|Medical Resources]]
-  * [[academy|Social Education and Empathy Skills Training]]
+  * [[starfleet:academy|Social Education and Empathy Skills Training]]
