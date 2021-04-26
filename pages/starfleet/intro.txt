@@ -1,12 +1,28 @@
 ===== Starfleet is a Benefit Corporation =====
 Starfleet (BC) was founded on the twenty-first day of the twenty-first year of the twenty-first century, and conceived as a decoupling layer between late-stage capitalism and progressive social experimentation. 
 
-The "elevator pitch" is this: we hold a set of values that we believe are broadly shared within the community. As a step towards restoring some sense of unity, we want to offer people the opportunity to make a positive statement about their values. Joining and maintaining a membership in good standing with Starfleet will convey additional privileges when dealing with Starfleet-associated entities.
+The "elevator pitch" is this: we hold a set of values that we believe are broadly shared within the community. As capitalism has gained in power, [[https://en.wikipedia.org/wiki/Anomie|anomie]] has overtaken our culture - churches are struggling, people are divided, nobody seems to know exactly who they can trust. We believe the conservative backlash that is currently tearing our nation apart stems from this anomie, this lack of institutions that are broadly and generally recognized as Good. The Scouts organization(s?) may be the closest thing we have left to "truth, justice, and the American Way" - and ... well ... there's all that problematic stuff with the cookies, and blah blah whatever we think they're still fundamentally trying to Get It Right.
 
-In short, we're selling an ethos: if you are Starfleet material, you get the endorsement of Starfleet; consumers who want to support the causes that Starfleet supports can do so by looking for the Starfleet seal of approval.
+As a step towards restoring some sense of unity, we want to offer people the opportunity to make a positive statement about their values. In times past, membership in a church was one way of doing that. Churches still fill that role for some people, but for many of us, the church just ... doesn't feel like the right fit. Scouts are a little outdoorsy for many of us here in the 21st century, though we admire them just the same. 
+
+Starfleet is about creating a new group of people, a new identity, not tied to geographic location but to a shared set of values and mechanisms for putting those values into practice. We expect to be identified as philosophically aligned with what's often called utilitarianism. Our motto: Fully Automated Luxury Gay Space Communism.
+
+In short, we're building a new Digital Nation.
+
+We'll organize around evolutionary ideas like:
+  * [[https://circles.garden|Universal Basic Income]]
+    * ... although we're concerned that the name of the above-mentioned scheme - circles.garden - is awfully similar to a popular scam in the United States, sometimes called "the circles game." One is an MLM; one is a model for a new economy. Darn you capitalists and your dirty tricks!
+  * [[https://discord.gg/e6M9JWZnZU|Open and collaborative communications]]
+    * Many of us have non-neurotypical brains, and have found Discord to be a particularly helpful technology for collating all our thought tangents and ricochets into something resembling coherent, sequential threads of conversation and action.
+  * Verifiable, graded sources of Truth. 
+    * A culture must agree upon certain things if it is to advance to the status of "civilization." 
+    * In the past, memes were scarce enough that, commodity-wise, they tended to only travel far from their origin when they proved to be of utility to the people who were traveling. Stated slightly differently: Truth was and still is an important survival attribute for a meme.
+    * If we think of memes within a viral-spread model, we could say that the memes of old were not nearly as infectious as, say, Baby Shark (do doo do doo do dooo).
+    * We could also note that the "survival pressures" on memes shifted, as the printing, then industrial, then network revolutions facilitated ever faster information sharing.
+    * At some point, "virulence" became a thing. The meme's host (ie the person holding the belief) will actively seek out memes confirming the truth of a virulent meme, generate more memes based on the virulent meme, and so forth.
+    * Now we want to add "benevolence" to the survival pressures on our memes. Toxic / virulent memes like White Supremacy are going to continue to exist, but we're trying to counter that with our "graded truth" system.
+  * [[::shelter|Shelter for All]]
 
 Furthermore, through [[starfleet:academy|Starfleet Academy]] we hope to serve as an educational resource to the community - providing a space and supportive resources for people who have something to teach, with priority access given to classes which best embody the values that Starfleet represents.
 
-Now, an ethos like this doesn't do much unless there are mechanisms to support it. [[identity|Starfleet ID]] is intended as a mechanism to provide accountability for our members, in word and deed. The [[rank|Starfleet Rank System]] is the mechanism by which we recognize achievement (or ignominy), and the [[credit|Starfleet Credit]] is a unit of barter currency which we believe could help move our economic agenda forward even more effectively.
-
-Ultimately, Starfleet's ambition is to become a quasi-governmental entity, complete with land holdings, assets, and a population of compassionate activists who are engaged in making positive changes in the world.
+Ultimately, Starfleet's ambition is to become a quasi-governmental entity, complete with passports, treaties, and eventually to achieve recognition and full participation in the United Nations.

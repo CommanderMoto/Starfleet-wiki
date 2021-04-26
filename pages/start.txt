@@ -1,4 +1,6 @@
 ====== What Is Starfleet? ======
+[[inspiration|Some inspiration for you first - please, please trust with us that the future can bring good things as well]]
+
 {{section>starfleet:intro}}
 
 ====== Why Starfleet? ======
@@ -6,33 +8,5 @@
 
 {{section>starfleet:disclaimer}}
 
-
-//... the remainder of this page needs to be snipped and turned into its own wiki hierarchy//
-
-----
-
-==== Philosophy ====
-{{page>philosophy:tldr}}
-
-{{page>philosophy:heroquote}}
-
-=== Values ===
-{{page>philosophy:values}}
-
-==== Mission ====
-=== Our Vision ===
-{{page>mission:vision}}
-
-... yeah, we're still working on clarifying that.
-
-==== Phased Development ====
-Phase one is focused on securing facilities for our [[headquarters|headquarters]], which in the short term will also serve as a live / work home for queer entrepreneurs.
-
-Once we have established a base of operations, we will invest in and incubate LGBTQIA+ companies that we believe will support our ongoing mission.
-
-What could we do with a space full of trans activists? Here are some ideas that we're considering at this stage in our growth.
-  * [[tech|Technology Incubator]]
-  * [[farm|Agricultural Incubator]]
-  * [[shelter|Shelter for All]]
-  * [[medical|Medical Resources]]
-  * [[starfleet:academy|Social Education and Empathy Skills Training]]
+====== How do I get involved? ======
+[[https://discord.gg/XnSDpp2mwg|Come join us on our Discord!]]
